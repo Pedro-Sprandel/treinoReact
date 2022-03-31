@@ -1,0 +1,25 @@
+section {
+    height: 30vw;
+    box-shadow: inset 0px 10px 15px -2px rgb(214, 214, 214);
+}
+
+.sobre-texto {
+    height: 30vw;
+}
+
+.sobre-texto h1 {
+    margin-top: 6vw;
+}
+
+.sobre-texto p {
+    text-indent: 2vw;
+    text-align: justify;
+}
+
+.sobre-img-holder img {
+    margin-top: 8vw;
+}
+
+.sobre-image-holder {
+    height: 30vw;
+}
